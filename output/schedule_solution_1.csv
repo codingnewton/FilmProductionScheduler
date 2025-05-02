@@ -1,0 +1,57 @@
+Member,MemberID,Task,Task Description,Start,Duration,End
+Bonnie,4,Task 0,JacobHair&Makeup,11:15,45,12:00
+Bonnie,4,Task 8,JacobVideoShoot,12:00,60,13:00
+Bonnie,4,Task 9,JacobPhotoShoot,13:00,60,14:00
+Bonnie,4,Task 2,MonitaHair&Makeup,14:00,75,15:15
+Bonnie,4,Task 13,MonitaPhotoShoot,15:15,60,16:15
+Cam 1,10,Task 8,JacobVideoShoot,12:00,60,13:00
+Cam 1,10,Task 9,JacobPhotoShoot,13:00,60,14:00
+Cam 1,10,Task 13,MonitaPhotoShoot,15:15,60,16:15
+Cam 2,11,Task 11,VickyPhotoShoot,12:00,60,13:00
+Cam 2,11,Task 10,VickyVideoShoot,13:00,30,13:30
+Cam 2,11,Task 15,RayPhotoShoot,14:15,60,15:15
+Cam 2,11,Task 14,RayVideoShoot,15:15,60,16:15
+Cam 2,11,Task 12,MonitaVideoShoot,16:15,45,17:00
+Jacob,0,Task 0,JacobHair&Makeup,11:15,45,12:00
+Jacob,0,Task 8,JacobVideoShoot,12:00,60,13:00
+Jacob,0,Task 9,JacobPhotoShoot,13:00,60,14:00
+Monita,2,Task 2,MonitaHair&Makeup,14:00,75,15:15
+Monita,2,Task 13,MonitaPhotoShoot,15:15,60,16:15
+Monita,2,Task 12,MonitaVideoShoot,16:15,45,17:00
+Raj,8,Task 4,SetupPhotoArea,11:45,15,12:00
+Raj,8,Task 11,VickyPhotoShoot,12:00,60,13:00
+Raj,8,Task 9,JacobPhotoShoot,13:00,60,14:00
+Raj,8,Task 15,RayPhotoShoot,14:15,60,15:15
+Raj,8,Task 13,MonitaPhotoShoot,15:15,60,16:15
+Rajesh,6,Task 5,SetupLightingA,10:00,75,11:15
+Rajesh,6,Task 6,SetupLightingB,11:15,45,12:00
+Rajesh,6,Task 8,JacobVideoShoot,12:00,60,13:00
+Rajesh,6,Task 10,VickyVideoShoot,13:00,30,13:30
+Rajesh,6,Task 7,SetupLightingC,13:30,105,15:15
+Rajesh,6,Task 14,RayVideoShoot,15:15,60,16:15
+Rajesh,6,Task 12,MonitaVideoShoot,16:15,45,17:00
+Ramesh,7,Task 5,SetupLightingA,10:00,75,11:15
+Ramesh,7,Task 6,SetupLightingB,11:15,45,12:00
+Ramesh,7,Task 8,JacobVideoShoot,12:00,60,13:00
+Ramesh,7,Task 10,VickyVideoShoot,13:00,30,13:30
+Ramesh,7,Task 7,SetupLightingC,13:30,105,15:15
+Ramesh,7,Task 14,RayVideoShoot,15:15,60,16:15
+Ramesh,7,Task 12,MonitaVideoShoot,16:15,45,17:00
+Ray,3,Task 3,RayHair&Makeup,13:30,45,14:15
+Ray,3,Task 15,RayPhotoShoot,14:15,60,15:15
+Ray,3,Task 14,RayVideoShoot,15:15,60,16:15
+Sara,9,Task 4,SetupPhotoArea,11:45,15,12:00
+Sara,9,Task 11,VickyPhotoShoot,12:00,60,13:00
+Sara,9,Task 9,JacobPhotoShoot,13:00,60,14:00
+Sara,9,Task 15,RayPhotoShoot,14:15,60,15:15
+Sara,9,Task 13,MonitaPhotoShoot,15:15,60,16:15
+Sheila,5,Task 1,VickyHair&Makeup,10:45,75,12:00
+Sheila,5,Task 11,VickyPhotoShoot,12:00,60,13:00
+Sheila,5,Task 10,VickyVideoShoot,13:00,30,13:30
+Sheila,5,Task 3,RayHair&Makeup,13:30,45,14:15
+Sheila,5,Task 15,RayPhotoShoot,14:15,60,15:15
+Sheila,5,Task 14,RayVideoShoot,15:15,60,16:15
+Sheila,5,Task 12,MonitaVideoShoot,16:15,45,17:00
+Vicky,1,Task 1,VickyHair&Makeup,10:45,75,12:00
+Vicky,1,Task 11,VickyPhotoShoot,12:00,60,13:00
+Vicky,1,Task 10,VickyVideoShoot,13:00,30,13:30
