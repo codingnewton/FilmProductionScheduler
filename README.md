@@ -2,6 +2,8 @@
 
 This is a Final Year Project submitted as course requirements for IEDA 4920 at HKUST, co-developed by Tsz Hei Louey, Hin Yeung AU, and Hang Kin Nicholas YUEN, under the supervision of Mr. Eugene CHAN from EuCan Productions and Professor Xuan QIU.
 
+Film Production Scheduler is a specialized application designed to optimize film production scheduling by minimizing costs while respecting crew availability, task dependencies, and other production constraints. The scheduler uses Mixed-Integer Linear Programming (MILP) to find optimal solutions for complex scheduling problems.
+
 ## Authors
 
 - [Tsz Hei (Newton) LOUEY](https://www.github.com/codingnewton)
